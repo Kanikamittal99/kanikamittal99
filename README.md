@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm Kanika, a data analyst skilled in reporting and data analysis. 
+Hello, I'm Kanika, a computer science graduate skilled in reporting and data analysis. 
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
