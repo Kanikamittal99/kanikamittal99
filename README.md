@@ -1,13 +1,6 @@
 ### Hi there 👋
-
-Hello, I am Kanika Mittal, a Computer Science graduate and a self-taught Data enthusiast from India.  
-
-
-### 🎈 Hobbies 
-
-- Watching anime 🎭
-- Following geo-political events 🌏
-- Listening to podcasts 🎧
+***
+<p align="center">I am Kanika, a Computer Science graduate and a self-taught Data enthusiast from India.</p> 
 
 ### 👩‍💻 Skills
 
@@ -16,6 +9,12 @@ Hello, I am Kanika Mittal, a Computer Science graduate and a self-taught Data en
 - Developing dashboards on Tableau.
 - Data analysis and reporting using Excel.
 - Performing exploratory data analysis and answering business queries using Python
+
+### 🎈 Hobbies 
+
+- Watching anime 🎭
+- Following geo-political events 🌏
+- Listening to podcasts 🎧
 
   
 ### 📚 Projects
@@ -28,4 +27,5 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Kanik
 - Language: SQL, Python
 - Database: Microsoft SQL Server
 - Visualization: Tableau
+
 
