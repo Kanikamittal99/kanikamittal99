@@ -27,7 +27,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Kanik
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" title="Microsoft Excel"> 
     <img src="https://github.com/Kanikamittal99/kanikamittal99/blob/main/images/icons8-microsoft-excel-2019.svg" alt="excel" width="40" height="40"/> 
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" title="Microsoft SQL Server"> 
+  <a href="https://www.microsoft.com/en-in/sql-server" target="_blank" title="Microsoft SQL Server"> 
     <img src="https://github.com/Kanikamittal99/kanikamittal99/blob/main/images/icons8-sql-server.svg" alt="sql-server" width="40" height="40"/> 
   </a>
   <a href="https://www.python.org" target="_blank" title="Python"> 
