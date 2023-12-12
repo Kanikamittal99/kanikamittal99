@@ -49,4 +49,6 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Kanik
 
 ### 🙋‍♀️ Connect with Me
 
-[Email](mailto:kanikamittal042@gmail.com)
+[Email](mailto:kanikamittal042@yahoo.com)
+
+[LinkedIn](https://www.linkedin.com/in/kanika042/)
