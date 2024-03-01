@@ -4,17 +4,17 @@
 
 ### 👩‍💻 Skills
 
-- Querying data using SQL.
+- Data cleaning, transformations, and creating reports using Excel.
+- Querying and modeling data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards on Tableau and PowerBI.
-- Data analysis and reporting using Excel.
 - Performing exploratory data analysis and answering business queries using Python
 
 ### 🎈 Hobbies 
 
-- Watching anime 🎭
-- Following geo-political events 🌏
+- Following geo-political events🌏 and business case studies 📊
 - Listening to podcasts 🎧
+- Watching anime 🎭
 
   
 ### 📚 Projects
