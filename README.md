@@ -45,6 +45,9 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Kanik
   <a href="https://www.tableau.com/" target="_blank" title="Tableau"> 
     <img src="https://github.com/Kanikamittal99/kanikamittal99/blob/main/images/tableau-software.svg" alt="tableau" width="55" height="55"/> 
   </a>
+  <a href="https://www.tableau.com/" target="_blank" title="PowerBI"> 
+    <img src="https://github.com/Kanikamittal99/kanikamittal99/blob/main/images/icons8-power-bi-2021.svg" alt="PowerBI" width="55" height="55"/> 
+  </a>
   </p>
 
 ### 🙋‍♀️ Connect with Me
