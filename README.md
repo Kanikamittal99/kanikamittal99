@@ -6,7 +6,7 @@
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau.
+- Developing dashboards on Tableau and PowerBI.
 - Data analysis and reporting using Excel.
 - Performing exploratory data analysis and answering business queries using Python
 
