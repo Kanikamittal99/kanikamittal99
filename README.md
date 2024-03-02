@@ -18,7 +18,7 @@
   
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://kanikamittal99.github.io/).
+Welcome to my [Portfolio](https://kanikamittal99.github.io/), where I showcase my projects.
 
 ### 🛠️ Tools and Technologies
 <p align="left">
