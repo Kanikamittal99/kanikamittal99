@@ -15,12 +15,10 @@
 - Following geo-political events🌏 and business case studies 📊
 - Listening to podcasts 🎧
 - Watching anime 🎭
-
   
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/Kanikamittal99/Portfolio-guide/blob/main/README.md).
-
+Welcome to my portfolio, where I showcase my [projects](https://kanikamittal99.github.io/).
 
 ### 🛠️ Tools and Technologies
 <p align="left">
@@ -45,15 +43,19 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Kanik
   <a href="https://www.tableau.com/" target="_blank" title="Tableau"> 
     <img src="https://github.com/Kanikamittal99/kanikamittal99/blob/main/images/tableau-software.svg" alt="tableau" width="55" height="55"/> 
   </a>
-  <a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" title="PowerBI"> 
+ <!--<a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" title="PowerBI"> 
     <img src="https://github.com/Kanikamittal99/kanikamittal99/blob/main/images/icons8-power-bi-2021.svg" alt="PowerBI" width="55" height="55"/> 
-  </a>
+  </a>-->
   </p>
 
 ### 🙋‍♀️ Connect with Me
 
-[Email](mailto:kanikamittal042@yahoo.com) 
+[Email](mailto:kanikamittal086@gmail.com) 
 
 [LinkedIn](https://www.linkedin.com/in/kanika042/)
 
 [Tableau](https://public.tableau.com/app/profile/kanikamittal086)
+
+Find My Resume [Here](https://drive.google.com/file/d/1S_i12WF0vOfKM_ws4YyL_LU7rPTezXUQ/view?usp=sharing) 👩‍💻
+
+
