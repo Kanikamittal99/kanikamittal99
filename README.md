@@ -56,6 +56,6 @@ Welcome to my [Portfolio](https://kanikamittal99.github.io/), where I showcase m
 
 [Tableau](https://public.tableau.com/app/profile/kanikamittal086)
 
-Find My Resume [Here](https://drive.google.com/file/d/1S_i12WF0vOfKM_ws4YyL_LU7rPTezXUQ/view?usp=sharing) 👩‍💻
+<!--Find My Resume [Here](https://drive.google.com/file/d/1S_i12WF0vOfKM_ws4YyL_LU7rPTezXUQ/view?usp=sharing) 👩‍💻-->
 
 
