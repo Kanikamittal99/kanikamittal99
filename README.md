@@ -14,7 +14,7 @@
 
 - Following geo-political events🌏 and business case studies 📊
 - Listening to podcasts 🎧
-- Watching anime 🎭
+
   
 ### 📚 Projects
 
