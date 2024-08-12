@@ -52,7 +52,7 @@ Welcome to my [Portfolio](https://kanikamittal99.github.io/), where I showcase m
 
 [Email](mailto:kanikamittal086@gmail.com) 
 
-[LinkedIn](https://www.linkedin.com/in/kanika042/)
+[LinkedIn](https://www.linkedin.com/in/kanika086/)
 
 [Tableau](https://public.tableau.com/app/profile/kanikamittal086)
 
