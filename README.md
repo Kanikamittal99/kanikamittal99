@@ -7,7 +7,7 @@
 - Data cleaning, transformations, and creating reports using Excel.
 - Querying and modeling data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and PowerBI.
+- Developing dashboards in Excel and PowerBI.
 - Performing exploratory data analysis and answering business queries using Python
 
 ### 🎈 Hobbies 
@@ -45,9 +45,9 @@ Check out and follow along with my daily learnings to improve your skills and br
   <a href="https://www.tableau.com/" target="_blank" title="Tableau"> 
     <img src="https://github.com/Kanikamittal99/kanikamittal99/blob/main/images/tableau-software.svg" alt="tableau" width="55" height="55"/> 
   </a>
- <!--<a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" title="PowerBI"> 
+ <a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" title="PowerBI"> 
     <img src="https://github.com/Kanikamittal99/kanikamittal99/blob/main/images/icons8-power-bi-2021.svg" alt="PowerBI" width="55" height="55"/> 
-  </a>-->
+  </a>
   </p>
 
 ### 🙋‍♀️ Connect with Me
