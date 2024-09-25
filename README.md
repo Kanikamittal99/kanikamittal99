@@ -1,6 +1,6 @@
 ### Hi there 👋
 ***
-<p align="center">I am Kanika, a Computer Science graduate and a self-taught Data enthusiast from India.</p> 
+<p align="center">I'm Kanika, a Computer Science graduate with three years of experience as an Analyst at Accenture.</p> 
 
 ### 👩‍💻 Skills
 
