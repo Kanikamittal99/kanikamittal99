@@ -19,6 +19,8 @@
 ### 📚 Projects
 
 Welcome to my [Portfolio](https://kanikamittal99.github.io/), where I showcase my projects.
+<br>
+Check out and follow along with my daily learnings to improve your skills and broaden your knowledge [here](https://github.com/Kanikamittal99/DailyCodeQuests).
 
 ### 🛠️ Tools and Technologies
 <p align="left">
